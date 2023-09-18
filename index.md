@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title:Nice work setting the theme! ✨
 ---
 
